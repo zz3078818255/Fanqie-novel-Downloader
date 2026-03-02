@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       book_ids:
-        description: "书籍 ID 列表（逗号或空格分隔）"
+        description: "7090076135945896483"
         required: true
         type: string
       file_format:
